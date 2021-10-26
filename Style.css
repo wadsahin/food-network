@@ -1,0 +1,117 @@
+body{
+	margin: 0px;
+	font-family: 'Cairo', sans-serif;
+}
+
+#header{
+  display: flex;
+  
+
+}
+
+.header-part{
+        width: 50%;
+    padding: 4%;
+  padding-left: 68px;
+   margin-top: 20px;
+}
+
+
+.para-1 {
+    font-size: 14px;
+    color: gray;
+    line-height: 18px;
+    margin-bottom: 25px;
+}
+
+.header-part img{
+  width: 88%;
+
+}
+
+.btn-style{
+ padding: 10px 20px;
+ background: radial-gradient(15);
+ border-radius: 20px;
+ background-image: linear-gradient(
+ 45deg
+, #f7ff0afc, #17ff54);
+ margin-top: 25px;
+}
+
+.about-section{
+ display: flex;
+  background-image: url(shapes/bg-banner-4.jpg);
+  background-repeat: no-repeat; 
+  margin-bottom: 50px;
+  margin-top: -20px;
+
+}
+
+.ab-sec-part{
+ margin: 5%;
+
+}
+.ab-sec-part h1{
+ color: gray;
+}
+.ab-sec-part p{
+ color: gray;
+ line-height: 20px;
+
+}
+
+#food-items {
+ display: flex;
+ margin-left: 250px;
+  box-shadow: 5px 10px;
+}
+
+#food-items .food-part{
+  
+  width: 20%;
+  border: 0.2px solid gray;
+  padding-left: 20px;
+  margin-left: 40px;
+  border-radius: 20px;
+  box-shadow:  box-shadow: 10px 10px 8px #888888;
+  margin-bottom: 40px;
+}
+
+#food-items-1 .hdn-1{
+    text-align: center;
+}
+
+#food-items-1 .para-2{
+text-align: center;
+width: 500px;
+margin: auto;
+margin-bottom: 30px;
+color: gray;
+font-size: 13px;
+line-height: 18px;
+}
+
+.food-part img{
+	width: 75%;
+	margin: auto;
+	padding-left: 17px;
+	padding-top: 22px;
+	border-radius: 26px 26px 7px 20px;
+}
+.food-part h2{
+	margin-left: 23px;
+	margin-top: -6px;
+
+}
+
+
+.food-part p {
+	margin-left: 23px;
+	line-height: 20px;
+	font-size: 13px;
+	color: gray;
+	margin-top: -20px;
+	width: 170px;
+
+}
